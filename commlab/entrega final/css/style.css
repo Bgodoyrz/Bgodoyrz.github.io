@@ -1,0 +1,125 @@
+body{
+  background-color: black
+
+}
+h1{
+  color: orange;
+}
+h3{
+color: orange;
+}
+title{
+  color: #yellow;
+}
+.contenido{
+width: 700px;
+height: 500px;
+background: black;
+padding: 15px ;
+margin-left: auto;
+margin-right: auto;
+border-style: none;
+border-width: thick;
+border-color: none;
+}
+
+.div-caja {
+width: 700px;
+height: 500px;
+background: black;
+padding: 15px ;
+margin-left: auto;
+margin-right: auto;
+border-style: none;
+border-width: thick;
+border-color: none;
+}
+button{
+  color: orange;
+}
+div{
+  width: 700px;
+  height: 500px;
+  background: none;
+  padding: 15px ;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: none;
+  border-width: thick;
+  border-color: none;
+}
+.main-1{
+  padding-top: 8rem;
+}
+a{
+  color: orange;
+}
+.main{
+  height: 700px;
+  max-width: 500px;
+  max-height: none;
+  margin: 20px 40px;
+  }
+
+  .slides{
+    width: auto;
+    height: 700px;
+      max-height: none;
+  }
+
+  .slides img{
+    height: 700px;
+    width: 500px;
+    bottom: 500px;
+      max-height: none;
+  }
+
+.slidesjs-container{
+height:700px;
+  margin: none;
+    max-height: none;
+}
+
+.slidesjs-pagination{
+  top: 100px;
+  margin: 0;
+  background: #424242;
+  list-style: none;
+  overflow: hidden;
+
+}
+
+.slidesjs-pagination li {
+  float:left;
+}
+
+.slidesjs-pagination li a {
+  display: inline-block;
+  padding: 8px 8px;
+  color:  orange;
+  text-decoration: none;
+  text: 2px;
+}
+
+.slidesjs-pagination li a:hover{
+background: #000;
+}
+
+.slides .active{
+  background: #000;
+  }
+
+.slidesjs-navigation{
+
+  background: #000;
+  color: orange;
+  text-decoration:none;
+  display: inline-block;
+  padding:8px 8px;
+float:right;
+
+  }
+p{
+  color: #333;
+    text-decoration: none;
+}
